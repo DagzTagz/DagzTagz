@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,13,14,15,16&text=♡%20dagz%20♡&fontColor=5A3E48&fontSize=46&fontAlignY=34&desc=AstrayaNthemoon%20•%20DagzTagz%20Uni%20•%20build%20in%20public&descAlignY=58&descSize=15" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:FFC8DD,35:CDB4DB,70:BDE0FE,100:A8E6CF&text=♡%20dagz%20♡&fontColor=5A3E48&fontSize=46&fontAlignY=34&desc=AstrayaNthemoon%20•%20DagzTagz%20Uni%20•%20build%20in%20public&descAlignY=58&descSize=15" alt="header" />
 </div>
 
 <br/>
@@ -111,5 +111,5 @@ A satirical, integrity-first, forkable world: cyberpunk lore, cryptographic prov
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,13,14,15,16&section=footer&text=leave%20folders%20a%20skeptic%20can%20audit%20♡&fontColor=5A3E48&fontSize=18&fontAlignY=70" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:A8E6CF,40:BDE0FE,75:CDB4DB,100:FFB7C5&section=footer&text=leave%20folders%20a%20skeptic%20can%20audit%20♡&fontColor=5A3E48&fontSize=18&fontAlignY=55" alt="footer" />
 </div>
